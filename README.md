@@ -1,52 +1,44 @@
 ## Hi there, I'm Bilal nice to see you poking around here! 👋
-### About Me
-
+### Welcome to my GitHub
 
 
 ### 🚧 Work In Progress
 
-## Skills & Technologies
-
-| Frontend & Web | Backend & Databases | Microsoft Power Platform | Cloud & Frameworks       | Other        |
-|----------------|---------------------|--------------------------|--------------------------|------------- |
-| HTML, CSS, JS | C# & .NET          | Power Apps             | Microsoft Azure        | Graphic Design |
-| ReactJS      | Python            | Power Automate         | PowerApps Component Framework (PCF) | C++          |
-|                | SQL (MySQL, SSMS, Oracle APEX, SQLite3) | Power BI  | &nbsp;                  | &nbsp;       |
-
-## Certifications
-
-### Power Platform
-- **PL-200**: Microsoft Certified: Power Platform Functional Consultant Associate  
-- **PL-500**: Microsoft Certified: Power Automate RPA Developer Associate
-- **PL-100**: Microsoft Certified: Power Platform App Maker Associate  
-- **PL-900**: Microsoft Certified: Power Platform Fundamentals  
-
-### Azure / AI
-- **AZ-104**: Microsoft Certified: Azure Administrator  
-- **AZ-900**: Microsoft Certified: Azure Fundamentals  
-- **AI-900**: Microsoft Certified: Azure AI Fundamentals
-
-### Others
-- **MB-910**: Microsoft Certified: Dynamics 365 Fundamentals 
-- **freeCodeCamp**: Foundational C# with Microsoft  
-- **Green Software for Practitioners (LFC131)**  
-
-
-
+### About Me
+I’m a software developer with a passion for solving problems and building creative solutions across **.NET, Power Platform, Azure, and modern web technologies**.  
+With hands-on experience in **cloud, automation, and server management**, I enjoy experimenting with both enterprise and open-source tech — from **Power Apps and Azure AI** to **Linux servers and Infrastructure as Code**.  
 
 ---
 
-<!--
-**3ilalahmed123/3ilalahmed123** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+## 🚀 Skills & Technologies
 
-Here are some ideas to get you started:
+| Frontend & Web       | Backend & Databases             | Microsoft Power Platform        | Cloud & Infrastructure                  | Other Tools & Skills      |
+|----------------------|---------------------------------|---------------------------------|-----------------------------------------|---------------------------|
+| HTML, CSS, JS        | C# & .NET (MVC, Blazor)         | Power Apps                      | Microsoft Azure (Admin, AI, Security)   | Graphic Design (PS, AI, Figma) |
+| Blazor (WASM/Server)  | Python, C++, Java               | Power Automate (RPA)            | Azure Bicep (IaC), ARM Templates        | Video Editing (Premiere, Vegas, ClipChamp) |
+| ReactJS, TypeScript | SQL (MySQL, SQLite3, SSMS, APEX)| Power BI                        | Linux (Ubuntu/Debian, systemd, Bash)    | Agile & DevOps            |
+|                      |                                 | PCF (PowerApps Component Framework) |             | REST APIs / Integration   |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📜 Certifications
+### Power Platform
+- **PL-600**: Microsoft Power Platform Solution Architect Expert  
+- **PL-500**: Microsoft Power Automate RPA Developer Associate  
+- **PL-200**: Microsoft Power Platform Functional Consultant Associate  
+- **PL-100**: Microsoft Power Platform App Maker (Retired)  
+- **PL-900**: Microsoft Power Platform Fundamentals  
+
+### Azure & AI
+- **AZ-104**: Microsoft Certified: Azure Administrator  
+- **AI-102**: Microsoft Certified: Azure AI Engineer Associate  
+- **AI-900**: Microsoft Certified: Azure AI Fundamentals  
+- **AZ-900**: Microsoft Certified: Azure Fundamentals  
+
+### Other
+- **MB-910**: Microsoft Dynamics 365 Fundamentals  
+- **DevOps Certified Agile Service Manager®**  
+- **Green Software for Practitioners (LFC131)**  
+- **freeCodeCamp**: Foundational C# with Microsoft  
+---
+
