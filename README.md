@@ -4,10 +4,6 @@
 
 ### 🚧 Work In Progress
 
-### About Me
-I’m a software developer with a passion for solving problems and building creative solutions across **.NET, Power Platform, Azure, and modern web technologies**.  
-With hands-on experience in **cloud, automation, and server management**, I enjoy experimenting with both enterprise and open-source tech — from **Power Apps and Azure AI** to **Linux servers and Infrastructure as Code**.  
-
 ---
 
 ## 🚀 Skills & Technologies
